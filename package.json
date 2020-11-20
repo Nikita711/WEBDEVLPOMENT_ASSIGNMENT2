@@ -1,0 +1,17 @@
+{
+  "name": "postform",
+  "version": "1.0.0",
+  "description": "this is a form conneted to backend server ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "nikita",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5"
+  }
+}
